@@ -1,6 +1,6 @@
 {
-  "client_id": "910734356218-nl204qcddhh8vhkvunostfvks8fvmt0m.apps.googleusercontent.com",
-  "client_secret": "jz58MM5BTy8WDPpHk1hrLvmy",
+  "client_id": "",
+  "client_secret": "",
   "scope": [
     "https://www.googleapis.com/auth/drive",
     "https://spreadsheets.google.com/feeds/"
