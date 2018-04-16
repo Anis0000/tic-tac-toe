@@ -5,7 +5,7 @@ session = GoogleDrive::Session.from_config("config.json")
 require 'json'
 
 #Lien page google spreadsheet https://docs.google.com/spreadsheets/d/1N7--OE8i6xGaAO2AA8cxe9Ry1xm2GSdGULdlyJL7-iE/edit#gid=0
-ws = session.spreadsheet_by_key("1N7--OE8i6xGaAO2AA8cxe9Ry1xm2GSdGULdlyJL7-iE").worksheets[0]
+ws = session.spreadsheet_by_key("").worksheets[0]
 #ws[2,1] = "Coucou ahahah"
 #ws[2,2] = "Coucou 2"
 #ws.save
