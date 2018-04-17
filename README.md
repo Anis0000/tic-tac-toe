@@ -5,6 +5,10 @@ Projet scrapping de mairie et bot twitter par Théo Duranti, Maxime Elkael, Mari
 ### Spreadsheet link
 <a href="https://docs.google.com/spreadsheets/d/1N7--OE8i6xGaAO2AA8cxe9Ry1xm2GSdGULdlyJL7-iE/edit?usp=sharing"> C'est par ici pour voir la spreadsheet google ;) </a>
 
+### IMPORTANT
+
+Le bot twitter fonctionne parfaitement, mais étant donné qu'il y a beaucoup de requêtes, twitter bloque la connexion :( :(
+
 ### What's the point ?
 
 This programm is taking all the e-mails from all the townhall of 3 departement in France, and send them a message. Then, it follows all the townhall on their twitter acount. Isn't it wonderful ? (Si ça l'est)
@@ -34,7 +38,7 @@ Gmail ==> To send the message to every towns
 
 ### What have we done ?
 
-XXX Townhall have received the following e-mail : <br>
+1116 Townhall have received the following e-mail : <br>
 <br>
 Bonjour, <br>
 Je m'appelle Hugo, je suis élève à The Hacking Project, une formation au code gratuite, sans locaux, sans sélection, sans restriction géographique. La pédagogie de notre école est celle du peer-learning, où nous travaillons par petits groupes sur des projets concrets qui font apprendre le code. Le projet du jour est d'envoyer (avec du codage) des emails aux mairies pour qu'ils nous aident à faire de The Hacking Project un nouveau format d'éducation pour tous.<br>
@@ -49,6 +53,8 @@ And they've always been followed by the lovely-dovely account twitter : <a href=
 - The programm "<b>get_mail_and_name.rb</b>" is used to get the name or the email of the town scrapped in the spreadsheets, by using two methods : get_mails() and get_names()
 
 - The programm "<b>townhall_mailer.rb</b>" can be used to send an email to every townhall listed by get_mail_and_name()
+
+- The programm "<b>BotTwitter.rb</b>" follow every townhall and gathered their ID in the spreadsheet, section "ID"
 
 ### Acknowledgments
 
