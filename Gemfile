@@ -1,0 +1,10 @@
+source "https://rubygems.org"
+ruby '2.5.1'
+gem 'pry'
+require "google_drive"
+require 'nokogiri'
+require 'open-uri'
+require 'json'
+require 'gmail'
+require 'dotenv'
+require 'twitter'
