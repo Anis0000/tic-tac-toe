@@ -8,7 +8,7 @@ Projet scrapping de mairie et bot twitter par Théo Duranti, Maxime Elkael, Mari
 ### IMPORTANT
 
 Le bot twitter fonctionne parfaitement, mais étant donné qu'il y a beaucoup de requêtes, twitter bloque la connexion :( :(
-
+Preuve d'envoie des mails en photo <a href= "https://drive.google.com/file/d/10SOpUL7pVn9H74gopYpmMje9aJF7_N65/view?usp=sharing">91 pages, 1116 Emails :D </a>
 ### What's the point ?
 
 This programm is taking all the e-mails from all the townhall of 3 departement in France, and send them a message. Then, it follows all the townhall on their twitter acount. Isn't it wonderful ? (Si ça l'est)
