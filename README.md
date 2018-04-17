@@ -1,10 +1,10 @@
 # Scrappe donc moi tout ça
 
-Projet scrapping de mairie et bot twitter par Théo Duranti, Maxime Elkael, Marianne Chaumeil, Du Halgouet Melec et Anis Bougrab
+Projet scrapping de mairie et bot twitter par Théo Duranti, Maxime Elkael, Marianne Chaumeil, Du Halgouet Melec, Paul Broussolle et Anis Bougrab
 
 ### What's the point ?
 
-This programm is taking all the e-mails from all the townhall of 3 regions in France, and send them a message. Then, it follows all the townhall on their twitter acount. Isn't it wonderful ?
+This programm is taking all the e-mails from all the townhall of 3 regions in France, and send them a message. Then, it follows all the townhall on their twitter acount. Isn't it wonderful ? (Si ça l'est)
 
 ### Installing
 
@@ -27,7 +27,8 @@ Gmail ==> To send the message to every towns
   <li> Point 2
   <li> Point 3
 </ul>
-### What have we done ?
+
+## What have we done ?
 
 XXX Townhall have received the following e-mail : <br>
 <br>
