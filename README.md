@@ -26,16 +26,10 @@ twitter ==> For the twitter bot
 google_drive ==> To store all the e-mail on a beautiful spreadsheet
 Gmail ==> To send the message to every towns
 ```
-
-### Files
-
-<ul> A remplir
-  <li> Point 1
-  <li> Point 2
-  <li> Point 3
-</ul>
-
-
+### How to use ? ###
+- Changer les identifiants google mail dans le fichier <b>get_mail_and_city</b>
+- Modifier le <b>config.json</b> pour connecter son API Google Drive
+- Modifier <b>BotTwitter.rb</b>  pour rentrer ses clefs d'API Twitter
 ### What have we done ?
 
 1116 Townhall have received the following e-mail : <br>
